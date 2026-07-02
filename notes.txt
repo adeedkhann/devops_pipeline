@@ -1,0 +1,38 @@
+jenkins / gitlab cicd and others
+
+all automate test deploy 
+
+prefer github actions 
+event driven , push par pipline runs 
+
+
+massiv lib for pre 
+
+version control yaml liv
+
+.github/workflow/file.yaml
+
+ye hota hai yaml ka 
+
+yaml -> yaml aint Markup language (hahah so funny )
+
+yaml is human friendly , clearner for both human and machines
+
+yaml syntax rule:
+    indentation like pyhon:
+
+name : use to define workflow or job title
+on : triggers such as commit pr schedule
+jobs : jobs there os and steps
+steps : sequesntial command or actions 
+run : shell command to execute 
+uses : use prebuild actions
+with : pass params to actions
+env : set environent variables
+needs : make on job depend on another 
+
+
+aur bahot saare 
+badi list hai 
+
+
